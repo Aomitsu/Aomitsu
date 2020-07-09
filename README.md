@@ -1,5 +1,5 @@
 ### Salut toi 👋
-## Je suis Max, bienvenue sur Internet
+#### Je suis Max, bienvenue sur Internet
 
 <!--
 **Aomitsu/Aomitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
