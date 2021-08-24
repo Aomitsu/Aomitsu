@@ -1,5 +1,7 @@
 ### Salut toi 👋
-#### Je suis Max, bienvenue sur Internet
+Tout les projets présent ici n'ont basiquement aucun avenir, tout comme moi.
+
+Profite tout de même de la vue !
 
 <!--
 **Aomitsu/Aomitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
