@@ -3,8 +3,13 @@ Tout les projets présent ici n'ont basiquement aucun avenir, tout comme moi.
 
 Profite tout de même de la vue !
 
+💬 XMPP  : maxime@echapp.com
+💬 Matrix: @max_aucube:matrix.org
+💬 Pleroma/Mastodon/Misskey: maxime@s.echapp.com
+
+Join me on pleroma : https://s.echapp.com/
+
 <!--
-**Aomitsu/Aomitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
