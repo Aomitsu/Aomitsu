@@ -4,8 +4,12 @@ Tout les projets présent ici n'ont basiquement aucun avenir, tout comme moi.
 Profite tout de même de la vue !
 
 💬 XMPP  : maxime@echapp.com
+
 💬 Matrix: @max_aucube:matrix.org
+
 💬 Pleroma/Mastodon/Misskey: maxime@s.echapp.com
+
+💬 Discord: Not now
 
 Join me on pleroma : https://s.echapp.com/
 
