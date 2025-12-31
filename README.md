@@ -1,13 +1,7 @@
-### Salut toi 👋
-Tout les projets présent ici n'ont basiquement aucun avenir, tout comme moi.
+### Hi !
+I'm Max, a passionate but not very good developer.
 
-Profite tout de même de la vue !
-
-💬 Pleroma/Mastodon/Misskey: [maxime@social.linux.pizza](https://social.linux.pizza/@maxime)
-
-💬 Discord: max_aucube#0
-
-💬 Matrix/XMPP: Coming Soon !
+[Blog](https://blog.echa.pw/) | [Mastodon](https://social.linux.pizza/@maxime)
 
 ## 📊 GitHub Stats:
 ![](github-metrics.svg)
