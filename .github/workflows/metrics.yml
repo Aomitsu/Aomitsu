@@ -26,6 +26,4 @@ jobs:
           config_order: base.header, base.activity+community, base.repositories, languages, stars, isocalendar
           config_timezone: Europe/Paris
           plugin_code: yes
-          plugin_achievements: yes
-          plugin_achievements_secrets: yes
           plugin_reactions: yes
